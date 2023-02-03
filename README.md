@@ -1,6 +1,5 @@
-=========================
+
 <h1>THE RECIPE PAGE</h1>
-=========================
 
 In this project, I will demonstrate:
 - My skills in HTML
